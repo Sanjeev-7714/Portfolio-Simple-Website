@@ -1,6 +1,6 @@
 # 🌐 Portfolio-Simple-Website
 
-Welcome to my simple portfolio website !
+Welcome to my simple portfolio website ! ( This is my first website 😁 )
 
 A simple portfolio website showcasing my interests, projects, and experience as an entry-level web developer. Built using basic HTML and CSS to provide a clean, responsive, and interactive user experience.
 
