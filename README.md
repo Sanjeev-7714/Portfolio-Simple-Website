@@ -22,4 +22,4 @@ A simple portfolio website showcasing my interests, projects, and experience as 
 [https://sanjeev-7714.github.io/Portfolio-Simple-Website/] 
 
 ## 📩 Contact  
-Feel free to reach out via [ LinkedIn| https://www.linkedin.com/in/sanjeev-dev7714/ ].  
+Feel free to reach out via [ LinkedIn: https://www.linkedin.com/in/sanjeev-dev7714/ ].  
