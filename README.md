@@ -6,7 +6,7 @@ A simple portfolio website showcasing my interests, projects, and experience as 
 - Responsive and user-friendly design  
 - About Me section  
 - Projects showcase  
-- Contact information  
+- Contact Page  
 
 ## 🛠️ Technologies Used  
 - HTML5  
